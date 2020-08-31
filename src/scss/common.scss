@@ -8,7 +8,8 @@ $fontfamily: 'Inter', sans-serif;
   border-radius: $borderRadius;
   padding: 11px 15px;
   max-width: 215px;
-  text-align: left;
+  direction: rtl;
+  text-align: justify;
   font-family: $fontfamily;
 }
 
